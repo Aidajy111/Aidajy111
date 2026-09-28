@@ -10,7 +10,7 @@ Go is a developer with commercial backend development experience and 20+ complet
 
 **Concurrency:** 	   goroutines, channels, context, sync primitives
 
-**Infra & CI/CD:**   Docker, Docker Compose, Linux, Git, GitLab, Nginx, SSH, GitHub Actions,  
+**Infra & CI/CD:**   Docker, Docker Compose, Linux, Nginx, HTTP, SSH, TCP/UPD, GitHub Actions, Git, GitLab 
 
 **Additionally:**    GeoJSON, Google Calendar API, integration with 1C, React.js, Figma
 
